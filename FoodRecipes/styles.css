@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+.Title {
+    font-size: 48px;
+    color: black;
+    text-align: center;
+    font-weight: bold;
+}
+
+.describe {
+    font-size: 28px;
+    color: black;
+    background-color: green;
+    text-align: center;
+    font-weight: bold;
+}
+
+#ingredient {
+    font-size: 28px;
+    color: black;
+    background-color: green;
+    text-align: center;
+    font-weight: bold;
+}
+
+.method {
+    font-size: 28px;
+    color: white;
+    background-color: brown;
+    text-align: center;
+    font-weight: bold;
+}
+.im1 {
+    height: 300px;
+    width: 300px;
+}
+
+.im2 {
+    height: auto;
+    width: 300px;
+}
