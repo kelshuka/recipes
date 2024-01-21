@@ -4,25 +4,39 @@ body {
 
 .Title {
     font-size: 48px;
-    color: black;
+    color: brown;
     text-align: center;
     font-weight: bold;
+    border: 3px solid black;
+    padding: 16px 10px;
+    background-color: lightgoldenrodyellow;
+    height: auto;
+    width: 500px;
+    margin: 20px auto;
 }
 
 .describe {
     font-size: 28px;
     color: black;
-    background-color: green;
+    background-color: darkolivegreen;
     text-align: center;
     font-weight: bold;
+    width: 300px;
+    height: auto;
+    margin: 20px auto;
+    padding: 15px 6px;
 }
 
 #ingredient {
     font-size: 28px;
     color: black;
-    background-color: green;
+    background-color: darkolivegreen;
     text-align: center;
     font-weight: bold;
+    width: 300px;
+    height: auto;
+    margin: 20px auto;
+    padding: 15px 6px;
 }
 
 .method {
@@ -31,13 +45,42 @@ body {
     background-color: brown;
     text-align: center;
     font-weight: bold;
+    width: 400px;
+    height: auto;
+    margin: 20px auto;
+    padding: 15px 6px;
 }
 .im1 {
     height: 300px;
     width: 300px;
+    padding: 10px;
+    border: 20px solid darkolivegreen;
+    margin: 20px;
 }
 
 .im2 {
     height: auto;
     width: 300px;
+    padding: 10px;
+    border: 20px solid darkolivegreen;
+    margin: 20px;
+}
+
+.step2 {
+    font-size: auto;
+    color: black;
+    background-color: lightcoral;
+    text-align: center;
+    font-weight: bold;
+    width: 300px;
+    height: auto;
+    margin-top: 20px auto;
+    padding: 15px 6px;
+}
+
+div {
+    background-color: bisque;
+    padding: 3px 25px;
+    width: 800px;
+    height: auto;
 }
